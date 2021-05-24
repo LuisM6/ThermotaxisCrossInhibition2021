@@ -8,11 +8,10 @@ TABLE OF CONTENTS
 1. Calcium imaging data analysis
 2. Optogenetics apparatus code and virtual instruments
 3. Thermotaxis apparatus code and virtual instruments 
-4. Quantitative behavioral analysis
-5. Unsupervised behavior sequence classification
-6. Notes on mathematical modeling
-7. Connectivity Matrices
-8. Complementary movies
+4. Unsupervised behavior sequence classification
+5. Quantitative behavioral analysis
+6. Connectivity Matrices
+7. Complementary movies
 
 ----------------------------------------------------------
 INSTRUCTIONS
@@ -35,7 +34,7 @@ For any reagent requests (e.g. fly strains or antibodies)
 email luishernandeznunez@fas.harvard.edu,
 samuel@physics.harvard.edu and/or pgarrity@brandeis.edu.
 
-For any temperature control questions email
+For any optogenetics or temperature control questions email
 luishernandeznunez@fas.harvard.edu,
 samuel@physics.harvard.edu and/or klein@miami.edu.
 
