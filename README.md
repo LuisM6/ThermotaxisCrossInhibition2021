@@ -10,8 +10,7 @@ TABLE OF CONTENTS
 3. Thermotaxis apparatus code and virtual instruments 
 4. Unsupervised behavior sequence classification
 5. Quantitative behavioral analysis
-6. Connectivity Matrices
-7. Complementary movies
+6. Connectivity matrices and movies
 
 ----------------------------------------------------------
 INSTRUCTIONS
